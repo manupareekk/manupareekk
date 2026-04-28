@@ -1,6 +1,6 @@
-<p align="left">
+<p align="center">
   <a href="https://manupareek.com">
-    <img src="./intro.png" width="100%" alt="hi, i'm manu pareek — product at coca-cola, prev fortnite, prev investing at hawks ventures, kickstart, idea fund. links to about, work, and manupareek.com." />
+    <img src="./intro.png" width="100%" alt="hi, i'm manu pareek — homepage hero (opens manupareek.com)" />
   </a>
 </p>
 
