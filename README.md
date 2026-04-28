@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://manupareek.com"><img src="./readme.jpeg" width="168" height="168" alt="manu pareek" /></a>
+</p>
+
 <h3>► hi, i'm manu pareek.</h3>
 
 <p>
