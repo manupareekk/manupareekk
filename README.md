@@ -1,6 +1,6 @@
 ## hi, i'm manu pareek.
 
-building **[OpenIngress](https://openingress.dev)** — agent-readiness audits for commerce storefronts ([github](https://github.com/manupareekk/OpenIngress)).
+building **[OpenIngress](https://openingress.dev)** — making UIs work for agents ([github](https://github.com/manupareekk/OpenIngress)).
 
 ML product at [The Coca-Cola Company](https://www.coca-colacompany.com/). prev product at [Fortnite](https://www.epicgames.com/).
 
