@@ -1,6 +1,6 @@
 ## hi, i'm manu pareek.
 
-FDE at Salesforce and MS at GT.
+Senior FDE at Salesforce and MS at GT.
 
 prev ML product at [The Coca-Cola Company](https://www.coca-colacompany.com/). prev rec product at [Fortnite](https://www.epicgames.com/).
 
